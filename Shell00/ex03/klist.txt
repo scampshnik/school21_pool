@@ -1,0 +1,5 @@
+Credentials cache: API:0E90ACBB-E21C-4605-9B9F-B575639ADA35
+        Principal: jshantay@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jan 18 16:00:14 2021  Jan 19 02:00:14 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
